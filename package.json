@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build" : "node server.js",
+    "build" : "json-server db.json",
     "start" : "node server.js"
   },
   "repository": {
